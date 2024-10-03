@@ -28,8 +28,8 @@ In addition to the Python application, implementations of Euclidean Distance cal
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/repository-name.git
-    cd repository-name
+    git clone https://github.com/Huveee/Diabetes-Probability-Calculation-Software.git
+    cd Diabetes-Probability-Calculation-Software
     ```
 
 2. Run the Python script:
